@@ -1,4 +1,3 @@
-# **Amel Meligi**
    **Data Analyst Portfolio**
 
 ## **Power Bi Dashboard**
